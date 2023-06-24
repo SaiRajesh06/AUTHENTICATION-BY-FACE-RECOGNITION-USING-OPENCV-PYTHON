@@ -1,1 +1,3 @@
 # Mini-Project
+AUTHENTICATION BY FACE RECOGNITION USING OPENCV-PYHTON
+Face recognition is a biometric technique which involves determining if the image of the face of any given person matches any of the face images stored in a database. Thisproblem is hard to solve automatically due to the changes that various factors, such as facial expression, aging and even lighting, can cause on the image. Among the different biometric techniques facial recognition may not be the most reliable but it has several advantages over the others. It is widely used in various areas such as security and access control, forensic medicine, police controls and in attendance management system. 
